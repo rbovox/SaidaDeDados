@@ -2,7 +2,7 @@ package program;
 
 import java.util.Locale;
 
-public class saidaDeDados {
+public class SaidaDeDados {
 
 	public static void main(String[] args) {
 
