@@ -1,4 +1,4 @@
-# saida-de-dados
+# SaidaDeDados
 Em um novo programa, inicie as
 seguintes variáveis:
 String product1 = "Computer";
